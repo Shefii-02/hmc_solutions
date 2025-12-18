@@ -1,5 +1,5 @@
 <?php
-include('footer.php');
+include('header.php');
 ?>
     <div class="page-banner" style="background-image: url('images/banners/banner-about-us.html');">
         <div class="overlay"></div>

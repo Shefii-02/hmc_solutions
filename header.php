@@ -133,7 +133,7 @@
 
 
         <div class="col-1 site-logo">
-          <a href="index.html" class="text-black">
+          <a href="/" class="text-black">
             <img src="/assets/images/logo/logo-leftside.webp" alt="Alvertone group of companies logo">
           </a>
         </div>
@@ -142,24 +142,24 @@
           <nav class="site-navigation text-right ml-auto " role="navigation">
 
             <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
-              <li><a href="index.html" class="nav-link">Home</a></li>
+              <li><a href="index" class="nav-link">Home</a></li>
               <li class="has-children">
                 <a href="#" class="nav-link">About Us <span class="bi bi-caret-down"></span></a>
                 <ul class="dropdown arrow-top">
-                  <li><a href="company-overview.html" class="nav-link">Company Overview</a></li>
-                  <li><a href="our-story.html" class="nav-link">Our Story</a></li>
+                  <li><a href="/company-overview" class="nav-link">Company Overview</a></li>
+                  <li><a href="/our-story" class="nav-link">Our Story</a></li>
                 </ul>
               </li>
               <!-- <li><a href="/our-events" class="nav-link">Our Events</a></li> -->
               <li class="has-children">
                 <a href="#" class="nav-link">Our Ventures</a>
                 <ul class="dropdown arrow-top">
-                  <li><a href="/hayath-medicare–super-specialty-hospitals-and-diagnostic-centres.html"
+                  <li><a href="/hayath-medicare–super-specialty-hospitals-and-diagnostic-centres"
                       class="nav-link">Hayath Medicare – Super Specialty Hospitals and Diagnostic Centres</a></li>
-                  <li><a href="/hayath-medicare-clinics.html" class="nav-link">Hayath Medicare Clinics </a></li>
-                  <li><a href="/hayath-medicare-institute.html" class="nav-link">Hayath Medicare Institute </a></li>
-                  <li><a href="/hayath-medicare-pharma-care.html" class="nav-link">Hayath Medicare Pharma Care </a></li>
-                  <li><a href="/hayath-mother-and-child-care.html" class="nav-link">Hayath Mother and Child Care </a>
+                  <li><a href="/hayath-medicare-clinics" class="nav-link">Hayath Medicare Clinics </a></li>
+                  <li><a href="/hayath-medicare-institute" class="nav-link">Hayath Medicare Institute </a></li>
+                  <li><a href="/hayath-medicare-pharma-care" class="nav-link">Hayath Medicare Pharma Care </a></li>
+                  <li><a href="/hayath-mother-and-child-care" class="nav-link">Hayath Mother and Child Care </a>
                   </li>
 
                 </ul>
@@ -168,18 +168,18 @@
               <li class="has-children">
                 <a href="#" class="nav-link">Global Presence</a>
                 <ul class="dropdown arrow-top">
-                  <li><a href="/global-presence-india.html" class="nav-link">India</a></li>
-                  <li><a href="/global-presence-uae.html" class="nav-link">UAE</a></li>
+                  <li><a href="/global-presence-india" class="nav-link">India</a></li>
+                  <li><a href="/global-presence-uae" class="nav-link">UAE</a></li>
 
                 </ul>
               </li>
 
               <!-- <li><a href="/journey" class="nav-link">Journey</a></li> -->
-              <li><a href="/investors.html" class="nav-link">Investors</a></li>
+              <li><a href="/investors" class="nav-link">Investors</a></li>
 
-              <li><a href="/career.html" class="nav-link">Careers</a></li>
-              <li><a href="/contact.html" class="nav-link">Conatct Us</a></li>
-              <li><a href="/our-events.html" class="nav-link contact-action-button">Our Events</a></li>
+              <li><a href="/career" class="nav-link">Careers</a></li>
+              <li><a href="/contact" class="nav-link">Conatct Us</a></li>
+              <li><a href="/our-events" class="nav-link contact-action-button">Our Events</a></li>
             </ul>
           </nav>
 
