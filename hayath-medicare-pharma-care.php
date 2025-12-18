@@ -1,0 +1,151 @@
+<?php
+include('header.php');
+?>
+<div class="page-banner" style="background-image: url('images/banners/banner-about-us.html');">
+    <div class="overlay"></div>
+    <h1 class="title"> Hayath Medicare Pharma Care LLP</h1>
+</div>
+
+<section id="about-us" class="py-5 ">
+    <div class="container">
+        <h2 class="text-center " data-aos="fade-up">
+            About <span class="highlight">
+                Hayath Medicare Pharma Care LLP</span>
+        </h2>
+        <div class="col-12 col-lg-8 mx-auto">
+            <img src="/assets/images/bg/about-img-1.webp" width="100%" height="auto"
+                style="object-fit: cover; -webkit-mask-image: url(/assets/images/bg/brushMask.webp); mask-image: url(/assets/images/bg/brushMask.webp); mask-repeat: no-repeat; mask-size: contain;  mask-position: center;"
+                alt="HMC Group Photo">
+        </div>
+
+
+        <div class="col-12 col-lg-10 mx-auto" data-aos="zoom-in">
+            <div class="glass-card2">
+
+                <p>
+                    Hayath Medicare Pharma Care LLP is an emerging pharmaceutical and surgical distribution and
+                    manufacturing company under the Hayath Medicare Group of Companies, established with a
+                    strong commitment to improving the quality, accessibility, and reliability of healthcare
+                    products in Kerala and beyond.
+                </p>
+                <p>
+                    Our mission is to ensure that every patient, hospital, and healthcare provider has access to
+                    safe, effective, and high-quality medicines and surgical supplies. In today’s market, where
+                    poor-quality or counterfeit healthcare products can pose serious risks, Hayath Medicare
+                    Pharma Care LLP stands as a trusted partner dedicated to excellence, transparency, and
+                    ethical service.
+                </p>
+                <p>
+                    Headquartered in Kuttippuram, Malappuram, we focus on manufacturing and distributing a wide
+                    range of pharmaceuticals, surgical instruments, and medical consumables that meet strict
+                    quality standards. Our products are designed to support not only the Hayath Medicare Clinics
+                    and Hospitals but also external hospitals, clinics, and pharmacies across Kerala.
+                </p>
+                <p>
+                    We believe that healthcare excellence starts with quality materials — that’s why every
+                    product we distribute undergoes rigorous testing and quality assurance before reaching the
+                    hands of healthcare professionals or patients. By maintaining strong supplier relationships
+                    and adopting advanced logistics systems, we ensure timely delivery and consistent
+                    availability of essential products.
+                </p>
+                <p>
+                    Beyond business, our purpose is deeply rooted in social responsibility. We aim to make a
+                    meaningful contribution to society by providing affordable healthcare products and
+                    supporting initiatives that promote public health and wellbeing.
+                </p>
+                <p>
+                    At Hayath Medicare Pharma Care LLP, we are not just building a company — we are building
+                    trust, sustainability, and a healthier future for the people of Kerala and beyond.
+
+                </p>
+
+            </div>
+        </div>
+    </div>
+    </div>
+
+</section>
+
+<section class="usp-section py-5">
+    <div class="container mt-5">
+        <div class="text-center mb-5">
+            <h2 class="section-title" data-aos="fade-up">
+                Our <span class="highlight">USPs</span>
+            </h2>
+            <p class="text-muted mt-2" data-aos="fade-up" data-aos-delay="100">
+                What makes Hayath Medicare a trusted and future-ready healthcare group
+            </p>
+        </div>
+
+        <div class="row g-4">
+            <!-- USP Card -->
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="usp-card">
+                    <div class="usp-icon">🏥</div>
+                    <h5>Integrated Ecosystem</h5>
+                    <p>Hospitals, clinics, pharma, education and manufacturing under one unified network.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="usp-card">
+                    <div class="usp-icon">🌍</div>
+                    <h5>Strong Regional Reach</h5>
+                    <p>10 clinics within a 45 km radius, ensuring rural and regional healthcare access.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="usp-card">
+                    <div class="usp-icon">📊</div>
+                    <h5>Proven Experience</h5>
+                    <p>Over five years of successful hospital and healthcare management excellence.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="400">
+                <div class="usp-card">
+                    <div class="usp-icon">💎</div>
+                    <h5>Quality & Affordability</h5>
+                    <p>Transparent, ethical, and affordable healthcare without compromising standards.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="500">
+                <div class="usp-card">
+                    <div class="usp-icon">🎓</div>
+                    <h5>Skill Development</h5>
+                    <p>Creating jobs and empowering youth through training and education.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="600">
+                <div class="usp-card">
+                    <div class="usp-icon">✈️</div>
+                    <h5>Global Expansion</h5>
+                    <p>Strategic roadmap for GCC markets and health tourism initiatives.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="700">
+                <div class="usp-card">
+                    <div class="usp-icon">♻️</div>
+                    <h5>Sustainable Operations</h5>
+                    <p>Ethical practices, renewable energy focus, and long-term value creation.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="800">
+                <div class="usp-card">
+                    <div class="usp-icon">🤝</div>
+                    <h5>Investor Confidence</h5>
+                    <p>Strong leadership, transparency, and scalable growth opportunities.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php
+include('footer.php');
+?>

@@ -1,0 +1,141 @@
+<?php
+include('header.php');
+?>
+<div class="page-banner" style="background-image: url('images/banners/banner-about-us.html');">
+    <div class="overlay"></div>
+    <h1 class="title">Hayath Mother and Child Care LLP - Joint Venture</h1>
+</div>
+
+<section id="about-us" class="py-5 ">
+    <div class="container">
+        <h2 class="text-center " data-aos="fade-up">
+            About <span class="highlight">
+                Hayath Mother and Child Care LLP</span>
+        </h2>
+        <div class="col-12 col-lg-8 mx-auto py-5">
+            <img src="/assets/images/bg/mother-chind-care-about.jpg" width="100%" height="auto"
+                style="object-fit: cover; -webkit-mask-image: url(/assets/images/bg/brushMask.webp); mask-image: url(/assets/images/bg/brushMask.webp); mask-repeat: no-repeat; mask-size: contain;  mask-position: center;"
+                alt="HMC Group Photo">
+        </div>
+
+
+        <div class="col-12 col-lg-10 mx-auto" data-aos="zoom-in">
+            <div class="glass-card2">
+
+                <p>
+                    Welcome to Hayath Mother and Child Care LLP, your trusted partner in gynecological and
+                    maternity care in Kuttippuram. Established in 2024, we are proud
+                    to bring world-class healthcare services to the heart of Malabar, offering exceptional care
+                    at affordable prices. At Hayath Mother and Child Care, we are
+                    dedicated to ensuring the well-being of women and children through a comprehensive range of
+                    services:
+                </p>
+                <ul class="text-dark py-4">
+                    <li>State-of-the-Art Scanning Centre</li>
+                    <li>Gynecological & Pediatric Emergency Trauma Care,</li>
+                    <li>Specialized IVF Centre, Yoga & Nutrition Centres,</li>
+                    <li>Multipurpose Party Hall and Lawn for Celebrations,</li>
+                    <li>Kids’ Play Area for Little Ones, Kids’ Play Area for Little Ones,</li>
+                    <li>Hyper Pharmacy & Mom's Bay Store</li>
+                </ul>
+                <p>
+
+                    Our facility also features spacious and private suites, ensuring comfort and privacy during
+                    your
+                    stay. For the first time in Kuttippuram and the Malabar region,
+                    we offer this unique blend of facilities and care, adhering to world-class quality
+                    accreditations. Experience healthcare redefined and let us grow together
+                    with Hayath Mother and Child Care LLP
+                </p>
+
+            </div>
+        </div>
+    </div>
+    </div>
+
+</section>
+
+<section class="usp-section py-5">
+    <div class="container mt-5">
+        <div class="text-center mb-5">
+            <h2 class="section-title" data-aos="fade-up">
+                Our <span class="highlight">USPs</span>
+            </h2>
+            <p class="text-muted mt-2" data-aos="fade-up" data-aos-delay="100">
+                What makes Hayath Medicare a trusted and future-ready healthcare group
+            </p>
+        </div>
+
+        <div class="row g-4">
+            <!-- USP Card -->
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="usp-card">
+                    <div class="usp-icon">🏥</div>
+                    <h5>Integrated Ecosystem</h5>
+                    <p>Hospitals, clinics, pharma, education and manufacturing under one unified network.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="usp-card">
+                    <div class="usp-icon">🌍</div>
+                    <h5>Strong Regional Reach</h5>
+                    <p>10 clinics within a 45 km radius, ensuring rural and regional healthcare access.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="usp-card">
+                    <div class="usp-icon">📊</div>
+                    <h5>Proven Experience</h5>
+                    <p>Over five years of successful hospital and healthcare management excellence.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="400">
+                <div class="usp-card">
+                    <div class="usp-icon">💎</div>
+                    <h5>Quality & Affordability</h5>
+                    <p>Transparent, ethical, and affordable healthcare without compromising standards.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="500">
+                <div class="usp-card">
+                    <div class="usp-icon">🎓</div>
+                    <h5>Skill Development</h5>
+                    <p>Creating jobs and empowering youth through training and education.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="600">
+                <div class="usp-card">
+                    <div class="usp-icon">✈️</div>
+                    <h5>Global Expansion</h5>
+                    <p>Strategic roadmap for GCC markets and health tourism initiatives.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="700">
+                <div class="usp-card">
+                    <div class="usp-icon">♻️</div>
+                    <h5>Sustainable Operations</h5>
+                    <p>Ethical practices, renewable energy focus, and long-term value creation.</p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="800">
+                <div class="usp-card">
+                    <div class="usp-icon">🤝</div>
+                    <h5>Investor Confidence</h5>
+                    <p>Strong leadership, transparency, and scalable growth opportunities.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<?php
+include('footer.php');
+?>
