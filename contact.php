@@ -55,7 +55,7 @@ include('header.php');
                 </div>
 
                 <a href="https://wa.me/917592997992" target="_blank" class="text-success mt-3">
-                    <i class="bi bi-whatsapp fs-5"></i>
+                    <i class="bi bi-whatsapp mr-3"></i>
                     Chat on WhatsApp
                 </a>
             </div>
