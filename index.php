@@ -381,7 +381,7 @@ include('header.php')
 
 <section id="latest-news">
   <div class="container">
-    <div class="d-flex justify-content-start mb-5">
+    <div class="d-flex justify-content-start mb-lg-5">
       <h2 class="like-h1 text-uppercase">LATEST Updates</h2>
     </div>
     <div class="news-container">

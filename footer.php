@@ -60,7 +60,7 @@
         <!-- Full-width Registered Section -->
         <div class="footer-bottom text-center py-3"
             style="border-top: 2px solid rgba(255,255,255,0.3); background-color: #2f3a47; color: #fff;">
-            &copy; 2025–2026 Hayath Group of Companies. All Rights Reserved.
+            &copy; <? date('Y') ?> Hayath Group of Companies. All Rights Reserved.
         </div>
 
 

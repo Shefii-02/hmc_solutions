@@ -68,7 +68,7 @@
   </div>
 
 
-  <div class="top-bar">
+  <div class="top-bar d-none d-md-block">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-8">
@@ -76,7 +76,7 @@
             <li>
               <i class="bi bi-telephone-forward-fill"></i>
               <span>Call Us:</span>
-              <a href="tel:+123-456-789">+123-456-789</a>
+              <a href="tel:+917592997992">0494 2087123, +91 7592 997 992</a>
             </li>
             <li>
               <i class="bi bi-envelope"></i>

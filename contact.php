@@ -50,7 +50,7 @@ include('header.php');
                     <div>
                         <h6 class="fw-semibold mb-1">Email</h6>
                         <p class="mb-0 text-muted">
-                            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hayathmedicaresolutions@gmail.com">hayathmedicaresolutions@gmail.com</a>
+                            <a style="    overflow-wrap: anywhere;" href="https://mail.google.com/mail/?view=cm&fs=1&to=hayathmedicaresolutions@gmail.com">hayathmedicaresolutions@gmail.com</a>
                         </p>
                     </div>
                 </div>
