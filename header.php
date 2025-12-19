@@ -71,7 +71,7 @@
   <div class="top-bar">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6">
+        <div class="col-lg-8">
           <ul class="heading-left-part">
             <li>
               <i class="bi bi-telephone-forward-fill"></i>
@@ -86,7 +86,7 @@
           </ul>
         </div>
 
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <ul class="heading-right-part">
             <li>
               <a href="#">
