@@ -194,7 +194,7 @@
   </header>
 
   <!-- WhatsApp Floating Button -->
-  <a href="https://wa.me/917592997991?text=Hello%20I%20would%20like%20to%20know%20more" target="_blank"
+  <a href="https://wa.me/917592997992?text=Hello%20I%20would%20like%20to%20know%20more" target="_blank"
     class="whatsapp-float" aria-label="Chat on WhatsApp">
     <i class="bi bi-whatsapp"></i>
   </a>
