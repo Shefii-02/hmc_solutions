@@ -16,7 +16,7 @@ special focus on rural and semi-urban regions.">
   <meta name="keywords" content="#">
   <meta name="robots" content="index, follow">
   <!-- Open Graph / Facebook -->
-  <meta property="og:title" content="#">
+  <meta property="og:title" content="Hayath Medicare Group of Companies">
   <meta property="og:description" content="Hayath Medicare Group of Companies
 stands as a trusted and forward-looking healthcare
 organization, built on more than five years of proven excellence
@@ -26,7 +26,7 @@ founded with a clear purpose to make quality, affordable, and
 advanced healthcare accessible to every community, with
 special focus on rural and semi-urban regions.">
   <meta property="og:image" content="/assets/images/icon/HAYATH MEDICARE COMPNY ICON.png">
-  <meta property="og:url" content="#">
+  <meta property="og:url" content="/">
   <meta property="og:type" content="website">
   <!-- Twitter Card -->
 
