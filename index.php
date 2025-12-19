@@ -7,9 +7,9 @@ include('header.php')
     <div class="item">
       <a href="#">
         <picture>
-          <source media="(min-width: 768px)" srcset="/assets/images/hero-banner/hayath-mother-and-child.jpg">
-          <source media="(max-width: 767px)" srcset="/assets/images/hero/unveiling-ceremony-m.jpg">
-          <img src="/assets/images/hero-banner/hayath-mother-and-child.jpg" alt="Banner">
+          <source media="(min-width: 768px)" srcset="/assets/images/hero-banner/banner-1.jpg">
+          <source media="(max-width: 767px)" srcset="/assets/images/hero-banner/banner-1.jpg">
+          <img src="/assets/images/hero-banner/banner-1.jpg" alt="Banner">
         </picture>
       </a>
     </div>
@@ -17,14 +17,14 @@ include('header.php')
     <div class="item">
       <a href="#">
         <picture>
-          <source media="(min-width: 768px)" srcset="/assets/images/hero-banner/hayath-health-care.jpg">
-          <source media="(max-width: 767px)" srcset="/assets/images/hero/unveiling-ceremony-m.jpg">
-          <img src="/assets/images/hero-banner/hayath-health-care.jpg" alt="Banner1">
+          <source media="(min-width: 768px)" srcset="/assets/images/hero-banner/banner-2.jpg">
+          <source media="(max-width: 767px)" srcset="/assets/images/hero-banner/banner-2.jpg">
+          <img src="/assets/images/hero-banner/banner-2.jpg" alt="Banner1">
         </picture>
       </a>
     </div>
 
-    <div class="item">
+    <!-- <div class="item">
       <a href="#">
         <picture>
           <source media="(min-width: 768px)" srcset="/assets/images/hero-banner/hayath-dental-image.jpg">
@@ -32,7 +32,7 @@ include('header.php')
           <img src="/assets/images/hero-banner/hayath-dental-image.jpg" alt="Banner2">
         </picture>
       </a>
-    </div>
+    </div> -->
 
 
 
