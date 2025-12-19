@@ -5,20 +5,41 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="#">
+  <meta name="description" content="Hayath Medicare Group of Companies
+stands as a trusted and forward-looking healthcare
+organization, built on more than five years of proven excellence
+and experience in hospital and healthcare management.
+Headquartered in Kuttippuram, Malappuram, the group was
+founded with a clear purpose to make quality, affordable, and
+advanced healthcare accessible to every community, with
+special focus on rural and semi-urban regions.">
   <meta name="keywords" content="#">
   <meta name="robots" content="index, follow">
   <!-- Open Graph / Facebook -->
   <meta property="og:title" content="#">
-  <meta property="og:description" content="#">
-  <meta property="og:image" content="#">
+  <meta property="og:description" content="Hayath Medicare Group of Companies
+stands as a trusted and forward-looking healthcare
+organization, built on more than five years of proven excellence
+and experience in hospital and healthcare management.
+Headquartered in Kuttippuram, Malappuram, the group was
+founded with a clear purpose to make quality, affordable, and
+advanced healthcare accessible to every community, with
+special focus on rural and semi-urban regions.">
+  <meta property="og:image" content="/assets/images/icon/HAYATH MEDICARE COMPNY ICON.png">
   <meta property="og:url" content="#">
   <meta property="og:type" content="website">
   <!-- Twitter Card -->
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="#">
-  <meta name="twitter:description" content="#">
+  <meta name="twitter:description" content="Hayath Medicare Group of Companies
+stands as a trusted and forward-looking healthcare
+organization, built on more than five years of proven excellence
+and experience in hospital and healthcare management.
+Headquartered in Kuttippuram, Malappuram, the group was
+founded with a clear purpose to make quality, affordable, and
+advanced healthcare accessible to every community, with
+special focus on rural and semi-urban regions.">
   <meta name="twitter:image" content="#">
   <link rel="icon" type="image/x-icon" href="/assets/images/icon/HAYATH MEDICARE COMPNY ICON.png">
 
@@ -57,7 +78,7 @@
 </head>
 
 <body>
-  
+
   <div class="site-mobile-menu site-navbar-target">
     <div class="site-mobile-menu-header">
       <div class="site-mobile-menu-close mt-3">
