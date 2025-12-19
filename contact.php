@@ -1,7 +1,7 @@
 <?php
 include('header.php');
 ?>
-<div class="page-banner" >
+<div class="page-banner">
     <div class="overlay"></div>
     <h1 class="title">Contact Us</h1>
 </div>
@@ -25,7 +25,8 @@ include('header.php');
                     <div>
                         <h6 class="fw-semibold mr-1">Head Office</h6>
                         <p class="mb-0 text-muted">
-                            Kuttippuram, Malappuram, Kerala
+                            HAYATH MEDICARE SOLUTIONS PVT.LTD<br>
+                            Tirur Road, Kuttippuram, Malappuram, Kerala – 679571, India
                         </p>
                     </div>
                 </div>
@@ -37,7 +38,7 @@ include('header.php');
                     <div>
                         <h6 class="fw-semibold mb-2">Call Us</h6>
                         <p class="mb-0 text-muted">
-                                0494 2087123, +91 7592 997 992
+                            0494 2087123, +91 7592 997 992
                         </p>
                     </div>
                 </div>
@@ -49,7 +50,7 @@ include('header.php');
                     <div>
                         <h6 class="fw-semibold mb-1">Email</h6>
                         <p class="mb-0 text-muted">
-                           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hayathmedicaresolutions@gmail.com">hayathmedicaresolutions@gmail.com</a>
+                            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hayathmedicaresolutions@gmail.com">hayathmedicaresolutions@gmail.com</a>
                         </p>
                     </div>
                 </div>
