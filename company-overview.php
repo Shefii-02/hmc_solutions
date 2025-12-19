@@ -19,7 +19,7 @@ include('header.php')
         left: 0px !important;
     }
 </style>
-<div class="page-banner" style="background-image: url('images/banners/banner-about-us.html');">
+<div class="page-banner" >
     <div class="overlay"></div>
     <h1 class="title">Company Overview</h1>
 </div>

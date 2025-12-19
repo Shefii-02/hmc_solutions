@@ -81,7 +81,7 @@
             <li>
               <i class="bi bi-envelope"></i>
               <span>Email:</span>
-              <a href="mailto:hello@example.com">hello@example.com</a>
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hayathmedicaresolutions@gmail.com" target="_blank">hayathmedicaresolutions@gmail.com</a>
             </li>
           </ul>
         </div>

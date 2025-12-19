@@ -34,7 +34,7 @@ include('header.php');
             border-radius: 10px;
         }
     </style>
-        <div class="page-banner" style="background-image: url('images/banners/banner-about-us.html');">
+        <div class="page-banner" >
             <div class="overlay"></div>
             <h1 class="title">Career</h1>
         </div>

@@ -1,7 +1,7 @@
 <?php
 include('header.php');
 ?>
-<div class="page-banner" style="background-image: url('images/banners/banner-about-us.html');">
+<div class="page-banner" >
     <div class="overlay"></div>
     <h1 class="title">Hayath Medicare Clinics LLP</h1>
 </div>
