@@ -173,32 +173,34 @@
     }
 </script>
 <script>
-    document.addEventListener("click", function(e) {
-        const link = e.target.closest(".site-mobile-menu .has-children > a");
-        if (!link) return;
+    $(document).ready(function() {
 
-        e.preventDefault();
+        // Toggle submenu on mobile
+        $(document).on(
+            "click",
+            ".site-mobile-menu .has-children > a",
+            function(e) {
 
-        const parent = link.parentElement;
+                e.preventDefault();
+                e.stopPropagation();
 
-        // Close other open submenus (optional but clean UX)
-        parent.parentElement.querySelectorAll(".has-children.open").forEach(el => {
-            if (el !== parent) {
-                el.classList.remove("open");
-                const sub = el.querySelector(".dropdown");
-                if (sub) sub.style.display = "none";
+                const $parent = $(this).parent();
+
+                // Close other submenus (clean UX)
+                $parent
+                    .siblings(".has-children")
+                    .removeClass("open")
+                    .children(".dropdown")
+                    .slideUp(200);
+
+                // Toggle current
+                $parent.toggleClass("open");
+                $parent.children(".dropdown").slideToggle(200);
             }
-        });
+        );
 
-        parent.classList.toggle("open");
-
-        const submenu = parent.querySelector(".dropdown");
-        if (submenu) {
-            submenu.style.display = parent.classList.contains("open") ? "block" : "none";
-        }
     });
 </script>
-
 
 
 </body>
