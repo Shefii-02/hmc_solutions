@@ -189,12 +189,12 @@
                 $parent
                     .siblings(".has-children")
                     .removeClass("open")
-                    .children(".dropdown")
+                    .children(".collapse")
                     .removeClass("show");
 
                 // Toggle current
                 $parent.toggleClass("open");
-                $parent.children(".dropdown").toggleClass("show");
+                $parent.children(".collapse").toggleClass("show");
             }
         );
 
