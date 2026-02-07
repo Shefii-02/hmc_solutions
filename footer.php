@@ -172,6 +172,28 @@
         initGSAPAnimation();
     }
 </script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const menuItems = document.querySelectorAll(
+            ".site-mobile-menu .has-children > a"
+        );
+
+        menuItems.forEach(item => {
+            item.addEventListener("click", function(e) {
+                e.preventDefault(); // stop navigation
+
+                const parent = this.parentElement;
+                parent.classList.toggle("open");
+
+                const submenu = parent.querySelector(".dropdown");
+                if (submenu) {
+                    submenu.style.display =
+                        submenu.style.display === "block" ? "none" : "block";
+                }
+            });
+        });
+    });
+</script>
 
 
 </body>
