@@ -175,28 +175,26 @@
 <script>
     $(document).ready(function() {
 
-        // Toggle submenu on mobile
         $(document).on(
             "click",
             ".site-mobile-menu .has-children > a",
             function(e) {
-            alert(1);
 
                 e.preventDefault();
                 e.stopPropagation();
 
                 const $parent = $(this).parent();
 
-                // Close other submenus (clean UX)
+                // Close others
                 $parent
                     .siblings(".has-children")
                     .removeClass("open")
                     .children(".dropdown")
-                    .slideUp(200);
+                    .removeClass("show");
 
                 // Toggle current
                 $parent.toggleClass("open");
-                $parent.children(".dropdown").slideToggle(200);
+                $parent.children(".dropdown").toggleClass("show");
             }
         );
 
