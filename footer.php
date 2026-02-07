@@ -180,6 +180,7 @@
             "click",
             ".site-mobile-menu .has-children > a",
             function(e) {
+            alert(1);
 
                 e.preventDefault();
                 e.stopPropagation();
