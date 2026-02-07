@@ -3,7 +3,7 @@ include('header.php');
 ?>
 <div class="page-banner" >
     <div class="overlay"></div>
-    <h1 class="title">Investors</h1>
+    <h1 class="title">Share Holder Service</h1>
 </div>
 <section class="investor-connect py-5">
     <div class="container">

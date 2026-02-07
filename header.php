@@ -169,6 +169,7 @@ special focus on rural and semi-urban regions.">
                 <ul class="dropdown arrow-top">
                   <li><a href="/company-overview" class="nav-link">Company Overview</a></li>
                   <li><a href="/our-story" class="nav-link">Our Story</a></li>
+                  <li><a href="/career" class="nav-link">Careers</a></li>
                 </ul>
               </li>
               <!-- <li><a href="/our-events" class="nav-link">Our Events</a></li> -->
@@ -196,9 +197,24 @@ special focus on rural and semi-urban regions.">
               </li>
 
               <!-- <li><a href="/journey" class="nav-link">Journey</a></li> -->
-              <li><a href="/investors" class="nav-link">Investors</a></li>
+              <!-- <li><a href="/investors" class="nav-link">Investors</a></li> -->
 
-              <li><a href="/career" class="nav-link">Careers</a></li>
+              <li class="has-children">
+                <a href="#" class="nav-link">Investors <span class="bi bi-caret-down"></span></a>
+                <ul class="dropdown arrow-top">
+                  <li><a href="/financial-informations" class="nav-link">Financial informations</a></li>
+                  <li><a href="/share-holder-service" class="nav-link">Share holder service</a></li>
+                </ul>
+              </li>
+               <li class="has-children">
+                <a href="#" class="nav-link">Brouchers <span class="bi bi-caret-down"></span></a>
+                <ul class="dropdown arrow-top">
+                  <li><a href="#" class="nav-link">Index</a></li>
+                  <li><a href="#" class="nav-link">Company Profile</a></li>
+                  <li><a href="#" class="nav-link">Business Proposal</a></li>
+                </ul>
+              </li>
+
               <li><a href="/contact" class="nav-link">Conatct Us</a></li>
               <li><a href="/our-events" class="nav-link contact-action-button">Our Events</a></li>
             </ul>
