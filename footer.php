@@ -173,27 +173,32 @@
     }
 </script>
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        const menuItems = document.querySelectorAll(
-            ".site-mobile-menu .has-children > a"
-        );
+    document.addEventListener("click", function(e) {
+        const link = e.target.closest(".site-mobile-menu .has-children > a");
+        if (!link) return;
 
-        menuItems.forEach(item => {
-            item.addEventListener("click", function(e) {
-                e.preventDefault(); // stop navigation
+        e.preventDefault();
 
-                const parent = this.parentElement;
-                parent.classList.toggle("open");
+        const parent = link.parentElement;
 
-                const submenu = parent.querySelector(".dropdown");
-                if (submenu) {
-                    submenu.style.display =
-                        submenu.style.display === "block" ? "none" : "block";
-                }
-            });
+        // Close other open submenus (optional but clean UX)
+        parent.parentElement.querySelectorAll(".has-children.open").forEach(el => {
+            if (el !== parent) {
+                el.classList.remove("open");
+                const sub = el.querySelector(".dropdown");
+                if (sub) sub.style.display = "none";
+            }
         });
+
+        parent.classList.toggle("open");
+
+        const submenu = parent.querySelector(".dropdown");
+        if (submenu) {
+            submenu.style.display = parent.classList.contains("open") ? "block" : "none";
+        }
     });
 </script>
+
 
 
 </body>

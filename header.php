@@ -76,13 +76,11 @@ special focus on rural and semi-urban regions.">
   <link rel="stylesheet" href="/assets/css/icon-style.css">
   <title>Hayath medicare Group of Compaines</title>
   <style>
-    /* Mobile submenu hidden by default */
     .site-mobile-menu .dropdown {
       display: none;
       padding-left: 15px;
     }
 
-    /* Open state */
     .site-mobile-menu .has-children.open>.dropdown {
       display: block;
     }
